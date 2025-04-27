@@ -1,0 +1,82 @@
+[
+    {
+      "id": 1,
+      "title": "Laravel",
+      "description": "Great MVC System",
+      "quantity": 1,
+      "created_at": "2023-03-07 13:40:51",
+      "updated_at": "2023-03-07 13:40:51"
+    },
+    {
+      "id": 2,
+      "title": "Models",
+      "description": "Links to dB",
+      "quantity": 1,
+      "created_at": "2023-03-07 13:40:51",
+      "updated_at": "2023-03-07 13:40:51"
+    },
+    {
+      "id": 3,
+      "title": "Controllers",
+      "description": "Dispatches requests",
+      "quantity": 1,
+      "created_at": "2023-03-07 13:40:51",
+      "updated_at": "2023-03-07 13:40:51"
+    },
+    {
+      "id": 4,
+      "title": "Blade",
+      "description": "Template View",
+      "quantity": 1,
+      "created_at": "2023-03-07 13:40:51",
+      "updated_at": "2023-03-07 13:40:51"
+    },
+    {
+      "id": 5,
+      "title": "PHP",
+      "description": "The best language for Web server programming",
+      "quantity": 1,
+      "created_at": "2023-03-07 13:40:51",
+      "updated_at": "2023-03-07 13:40:51"
+    },
+    {
+      "id": 6,
+      "title": "HTML",
+      "description": "What the Browser uses for structure",
+      "quantity": 1,
+      "created_at": "2023-03-07 13:40:51",
+      "updated_at": "2023-03-07 13:40:51"
+    },
+    {
+      "id": 7,
+      "title": "TailWind CSS",
+      "description": "One of many CSS frameworks",
+      "quantity": 1,
+      "created_at": "2023-03-07 13:40:51",
+      "updated_at": "2023-03-07 13:40:51"
+    },
+    {
+      "id": 8,
+      "title": "jQuery",
+      "description": "A way to change the DOM dynamically for interactivity",
+      "quantity": 1,
+      "created_at": "2023-03-07 13:40:51",
+      "updated_at": "2023-03-07 13:40:51"
+    },
+    {
+      "id": 9,
+      "title": "Node.js",
+      "description": "Works well for packages",
+      "quantity": 1,
+      "created_at": "2023-03-07 13:40:51",
+      "updated_at": "2023-03-07 13:40:51"
+    },
+    {
+      "id": 10,
+      "title": "UNIX",
+      "description": "Far better than any MS Windows OS",
+      "quantity": 1,
+      "created_at": "2023-03-07 13:40:51",
+      "updated_at": "2023-03-07 13:40:51"
+    }
+  ]

@@ -15,6 +15,7 @@ class ItemsController extends Controller
     /**
      * Display a listing of the resource.
      */
+    
     public function index(): View
     {
         $items = Item::latest()->paginate(5);

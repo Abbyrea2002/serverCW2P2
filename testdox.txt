@@ -1,0 +1,12 @@
+Items (Tests\Feature\Items)
+ [x] Example
+ [ ] Homepage contains empty table
+ [ ] Paginated items table does contain 1st record
+ [ ] Paginated items table contains toy record
+ [ ] Paginated items table doesnt contain pen record
+ [ ] Paginated items table contain photos record
+ [ ] Paginated items table contain hats record
+ [x] Paginated items table doesnt contain cats record
+ [x] There are 3 users in the db
+ [x] There is a user with the email pete
+
